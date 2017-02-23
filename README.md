@@ -12,7 +12,7 @@ jquery 表单插件
         `$('#form').autoAssignmentForm()`
         
 ### 表单验证  
-        `$('#form').autoEmptyForm()
+        `$('#form').autoEmptyForm()
         
         <div id='form' data-autoVerify='true'>
             <input type='text' name='name'
