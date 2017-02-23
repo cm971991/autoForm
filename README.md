@@ -12,9 +12,9 @@ jquery 表单插件
         `$('#form1').autoAssignmentForm()`
         
 ### 表单验证
-        ``$('#form1').autoEmptyForm()
+        `$('#form1').autoEmptyForm()
         
         <div id='form1' data-autoVerify='true'>
             <input class='form-control' type='text' name='accessNumber'
                            data-expression='isNumber' data-error='XXX格式不正确'>
-        </div>``
+        </div>`
